@@ -1,4 +1,4 @@
-# EXPLORATORY-POWER-BI-PROJECT
+# POWER-BI EXPLORATORY DATA ANALYSIS
 
 ## Project Overview
 This project showcases my ability to use POWER BI to clean, transform, prepare, analyze and visualize data with the aim of making better and more informed business decisons.
