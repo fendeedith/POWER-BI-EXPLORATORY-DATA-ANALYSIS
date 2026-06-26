@@ -40,13 +40,13 @@ This phase answers the questions above according to numbering. See dashboard bel
 - Data Analyst: 55,000$
 - Database Developer: 33,000$
 - Students/Looking: 26,000$
-"Other" here stands for any other position related to analztics which has not been mentioned
+"Other" here stands for any other position related to analytics which has not been mentioned
 5. Python was the language preferred by most participants with 255 voters followed by R and Other with 65 and 60 voters respectively. Then came a few votes for C/C++ and Java Script  
-6. 42.7% (269 participants) of voters found it neither easy nor difficult to break into data, 24.76% (156 participats) found it difficult, 21.27% (134 participants) found it easy, it was very difficult for 6.98% (44 participants) and it was verz easy for 4.29% (27 participants) to break into data.
+6. 42.7% (269 voters) of voters found it neither easy nor difficult to break into data, 24.76% (156 participats) found it difficult, 21.27% (134 participants) found it easy, it was very difficult for 6.98% (44 participants) and it was very easy for 4.29% (27 participants) to break into data.
 7. The findings for this question showed that more participants are happier with their work-life balance than they are with their salaries
 
 <img width="748" height="398" alt="Professional Survey Dashboard" src="https://github.com/user-attachments/assets/19136768-a9ff-4972-8359-0e9e40f67930" />
 
 ### Recommendations
-A recommendation for employers and most especially for HR departments would be to dig deeper into question 7 to know what exactlz the participants (employees) are uncomfortable with and find solutions for them. What is it that makes employees unhappy with their salaries and what is obstructing the work-life balance of some. 
-I recommend this because finding the equilibrium between personal life and work greatlz contribute to mental health and productivity both at home and at work.
+A recommendation for employers and most especially for HR departments would be to dig deeper into question 7 to know what exactly the participants (employees) are uncomfortable with and find solutions for them. What is it that makes employees unhappy with their salaries and what is obstructing the work-life balance of some. 
+I recommend this because finding the equilibrium between personal life and work greatly contributes to overall mental health and productivity both at home and at work.
